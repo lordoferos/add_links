@@ -1,5 +1,5 @@
 #! python3
-# photolinks.py - Resizes images and adds website link to lower right corner
+# photolinks.py - Resizes images and adds website link to top left corner
 
 import os
 from PIL import Image
